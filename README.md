@@ -93,7 +93,7 @@ The goal of this function is to allow all the metadata from IFC files to be brou
 
 ### Built With
 
-* [![PowerQuery][PQuery]][PQuery-url]
+[![PowerQuery][PQuery]][PQuery-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -203,7 +203,7 @@ Distributed under the GPL 3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Matthew Osment - [LinkeIn([https://twitter.com/twitter_handle](https://www.linkedin.com/in/matthew-osment/)) - matthew@shift-construction.com
+Matthew Osment - [LinkeIn](https://www.linkedin.com/in/matthew-osment/) - matthew@shift-construction.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
